@@ -1,6 +1,6 @@
-PWD c:\Users\Professional\Here i live\Uni\ЛСАУ\lab1\Paper
+PWD c:\Users\Professional\Here i live\Uni\LSAC\lab1\Paper
 INPUT C:\Users\Professional\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Professional\Here i live\Uni\ЛСАУ\lab1\Paper\main.tex
+INPUT c:\Users\Professional\Here i live\Uni\LSAC\lab1\Paper\main.tex
 OUTPUT main.log
 INPUT C:\Users\Professional\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Professional\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -254,6 +254,7 @@ INPUT .\images\model1.jpg
 INPUT .\images\model1.jpg
 INPUT .\images\model1.jpg
 INPUT .\images\model1.jpg
+INPUT C:\Users\Professional\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
 INPUT C:\Users\Professional\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1440.tfm
 INPUT C:\Users\Professional\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1440.tfm
 INPUT .\images\ut1.jpg
@@ -366,6 +367,8 @@ INPUT .\main.out
 INPUT .\main.out
 INPUT C:\Users\Professional\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk
 INPUT C:\Users\Professional\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk
+INPUT C:\Users\Professional\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
+INPUT C:\Users\Professional\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\Professional\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1095.pk
 INPUT C:\Users\Professional\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1095.pk
 INPUT C:\Users\Professional\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0800.pk
